@@ -18,7 +18,7 @@ Change TAG value to the latest and greatest version of Elastic stack
 ```bash
 $ git clone https://github.com/michaelhyatt/spring-petclinic-elastic-apm
 $ cd spring-petclinic-elastic-apm
-$ TAG=7.3.0 docker-compose up
+$ TAG=7.10.0 docker-compose up
 ```
 
 Rebuild the jar with `./mvnw clean package -DskipTests`
